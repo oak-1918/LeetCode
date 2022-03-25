@@ -340,7 +340,7 @@ public class LeetCodeTest {
         for (int i : next) {
             System.out.println(i);
         }
-
+        System.out.println("122222");
 //        }
 
     }
